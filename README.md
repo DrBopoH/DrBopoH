@@ -1,5 +1,5 @@
 <div align="right">
-  <samp>🌐 <b>EN</b> | <a href="README_RU.md" style="color: #8FE319; text-decoration: none;">RU</a></samp>
+  <samp>🌐 <b style =" font-size: 13px;">EN</b>| <a href="README_RU.md"><b style= "font-size: 13px; color: #8FE319; text-decoration: none">RU</b></a></samp>
 </div>
 <br>
 
@@ -7,8 +7,8 @@
 <table width="100%" border="0" cellpadding="15" cellspacing="0" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #1a1a1a;">
   <tr>
     <td width="60%" valign="top" style="border-right: 1px solid #1a1a1a;">
-      <h2 style="margin-top: 0;"><samp>&gt; whoami</samp></h2>
-      <h1 style="margin-bottom: 10px;"><samp>DrBopoH_</samp></h1>
+      <h2 style="margin-top: 0; margin-right: 300px;"><samp>&gt; whoami</samp></h2>
+      <h1 style="margin-bottom: 10px; margin-right: 200px;"><samp>DrBopoH_</samp></h1>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=8FE319&center=false&vCenter=true&width=400&lines=R%26D+Engineer;Toolmaker;Tech-Artist;Visionary" alt="Typing">
       <br><br>
       <blockquote>
@@ -39,24 +39,24 @@
 <table width="100%" border="0" cellpadding="15" cellspacing="0" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #1a1a1a;">
   <tr>
     <td width="50%" valign="top" style="border-right: 1px solid #1a1a1a; border-bottom: 1px solid #1a1a1a;">
-      <h3 style="margin-bottom: 5px;"><samp style="color: #6e7681;">[❖]</samp> <a href="https://github.com/DrBopoH/Fibra-3D" style="color: #8FE319; text-decoration: none;">Fibra-3D</a></h3>
+      <h3 style="margin-bottom: 5px;"><samp style="color: #6e7681;">[❖]</samp> <a href="https://github.com/DrBopoH/Fibra-3D"><b style = "color: #8FE319; text-decoration: none;">Fibra-3D</b></a></h3>
       <p style="margin-top: 0;"><samp>[ Python ]</samp></p>
       <p style="color: #8b949e; font-size: 15px; line-height: 1.4;">PET project: 3D Engine. Exploring rendering architecture and under-the-hood graphics operations.</p>
     </td>
     <td width="50%" valign="top" style="border-bottom: 1px solid #1a1a1a;">
-      <h3 style="margin-bottom: 5px;"><samp style="color: #6e7681;">[◈]</samp> <a href="https://github.com/DrBopoH/Smogline-techdemo-zig" style="color: #8FE319; text-decoration: none;">Smogline-techdemo</a></h3>
+      <h3 style="margin-bottom: 5px;"><samp style="color: #6e7681;">[◈]</samp> <a href="https://github.com/DrBopoH/Smogline-techdemo-zig"><b style = "color: #8FE319; text-decoration: none;">Smogline-techdemo</b></a></h3>
       <p style="margin-top: 0;"><samp>[ Zig ]</samp></p>
       <p style="color: #8b949e; font-size: 15px; line-height: 1.4;">Stress-testing Zig in combat conditions. A tech demo where explicit memory control and raw performance take the front seat.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="border-right: 1px solid #1a1a1a;">
-      <h3 style="margin-bottom: 5px;"><samp style="color: #6e7681;">[◨]</samp> <a href="https://github.com/DrBopoH/StorageOrigin-Handler" style="color: #8FE319; text-decoration: none;">StorageOrigin-Handler</a></h3>
+      <h3 style="margin-bottom: 5px;"><samp style="color: #6e7681;">[◨]</samp> <a href="https://github.com/DrBopoH/StorageOrigin-Handler"><b style = "color: #8FE319; text-decoration: none;">StorageOrigin-Handler</b></a></h3>
       <p style="margin-top: 0;"><samp>[ Python ]</samp></p>
       <p style="color: #8b949e; font-size: 15px; line-height: 1.4;">A step towards the GUI revolution. A shell and file handler implementing the "Everything is a directory" concept.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 style="margin-bottom: 5px;"><samp style="color: #6e7681;">[◇]</samp> <a href="#" style="color: #8FE319; text-decoration: none;">Project_Lang</a> <samp style="color: #6e7681;">(Concept)</samp></h3>
+      <h3 style="margin-bottom: 5px;"><samp style="color: #6e7681;">[◇]</samp><a href="#"><b style = "color: #8FE319; text-decoration: none;">Project_Lang</b></a> <samp style="color: #6e7681;"></samp></h3>
       <p style="margin-top: 0;"><samp>[ Architecture / R&D ]</samp></p>
       <p style="color: #8b949e; font-size: 15px; line-height: 1.4;">Artificial technical language based on Ancient Greek. An attempt to erase the line between code and communication.</p>
     </td>
@@ -99,9 +99,9 @@
 <div align="left" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #1a1a1a; padding: 20px 25px;">
 <pre style="font-family: 'Fira Code', monospace; margin: 0; font-size: 15px; line-height: 1.6;">
 <span style="color: #6e7681;">PING contacts.network (127.0.0.1): 56 data bytes</span>
-<span style="color: #c9d1d9;">64 bytes from tg://</span><a href="https://t.me/DrBopoH" style="color: #8FE319; text-decoration: none; font-weight: bold;">@DrBopoH</a><span style="color: #c9d1d9;">      seq=0 ttl=64 time=1.2ms  </span><span style="color: #6e7681;">[ Direct Comm / Fast Response ]</span>
-<span style="color: #c9d1d9;">64 bytes from yt://</span><a href="https://youtube.com/@DrBopoH" style="color: #8FE319; text-decoration: none; font-weight: bold;">YouTube</a><span style="color: #c9d1d9;">       seq=1 ttl=64 time=3.4ms  </span><span style="color: #6e7681;">[ Video Logs / R&D Streams ]</span>
-<span style="color: #c9d1d9;">64 bytes from mailto:</span><a href="mailto:your.email@example.com" style="color: #8FE319; text-decoration: none; font-weight: bold;">Email</a><span style="color: #c9d1d9;">         seq=2 ttl=64 time=5.1ms  </span><span style="color: #6e7681;">[ Async Msgs / Formal Req ]</span>
+<span style="color: #c9d1d9;">64 bytes from tg://</span><a href="https://t.me/DrBopoH"><b style = "color: #8FE319; text-decoration: none;">@DrBopoH</b></a><span style="color: #c9d1d9;">      seq=0 ttl=64 time=1.2ms  </span><span style="color: #6e7681;">[ Direct Comm / Fast Response ]</span>
+<span style="color: #c9d1d9;">64 bytes from yt://</span><a href="https://youtube.com/@DrBopoH"><b style = "color: #8FE319; text-decoration: none;">YouTube</b></a><span style="color: #c9d1d9;">       seq=1 ttl=64 time=3.4ms  </span><span style="color: #6e7681;">[ Video Logs / R&D Streams ]</span>
+<span style="color: #c9d1d9;">64 bytes from mailto:</span><a href="mailto:your.email@example.com"><b style = "color: #8FE319; text-decoration: none;">Email</b></a><span style="color: #c9d1d9;">         seq=2 ttl=64 time=5.1ms  </span><span style="color: #6e7681;">[ Async Msgs / Formal Req ]</span>
 
 <span style="color: #6e7681;">--- contacts.network ping statistics ---</span>
 <span style="color: #8FE319;">3 packets transmitted, 3 packets received, 0.0% packet loss</span>
