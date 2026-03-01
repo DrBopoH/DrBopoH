@@ -63,3 +63,48 @@
   </tr>
 </table>
 </div>
+
+<br>
+
+<div align="left">
+  <h2><samp>&gt; tree /opt/rd_core/ --level=2</samp></h2>
+</div>
+
+<div align="left" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #1a1a1a; padding: 20px 25px;">
+<pre style="font-family: 'Fira Code', monospace; margin: 0; font-size: 15px; line-height: 1.6;">
+<span style="color: #8FE319; font-weight: bold;">/opt/rd_core/</span>
+<span style="color: #484f58;">├──</span> <span style="color: #ffffff; font-weight: bold;">sys_architecture/</span>
+<span style="color: #484f58;">│   ├──</span> <span style="color: #c9d1d9;">ecs_framework</span><span style="color: #8FE319;">.h</span>        <span style="color: #6e7681;">[ Entity Component System design ]</span>
+<span style="color: #484f58;">│   ├──</span> <span style="color: #c9d1d9;">data_oriented</span><span style="color: #8FE319;">.bin</span>      <span style="color: #6e7681;">[ DOD & Cache locality optimization ]</span>
+<span style="color: #484f58;">│   └──</span> <span style="color: #c9d1d9;">vfs_handler</span><span style="color: #8FE319;">.so</span>         <span style="color: #6e7681;">[ "Everything is a directory" concept ]</span>
+<span style="color: #484f58;">│</span>
+<span style="color: #484f58;">├──</span> <span style="color: #ffffff; font-weight: bold;">pipeline_tech_art/</span>
+<span style="color: #484f58;">│   ├──</span> <span style="color: #c9d1d9;">render_logic</span><span style="color: #8FE319;">.glsl</span>      <span style="color: #6e7681;">[ Under-the-hood rendering operations ]</span>
+<span style="color: #484f58;">│   ├──</span> <span style="color: #c9d1d9;">pbr_baking</span><span style="color: #8FE319;">.node</span>        <span style="color: #6e7681;">[ Material creation & Map baking ]</span>
+<span style="color: #484f58;">│   └──</span> <span style="color: #c9d1d9;">scalable_uv</span><span style="color: #8FE319;">.py</span>         <span style="color: #6e7681;">[ Scalable topology unwrapping ]</span>
+<span style="color: #484f58;">│</span>
+<span style="color: #484f58;">└──</span> <span style="color: #ffffff; font-weight: bold;">core_logic/</span>
+<span style="color: #484f58;">    ├──</span> <span style="color: #c9d1d9;">explicit_memory</span><span style="color: #8FE319;">.zig</span>    <span style="color: #6e7681;">[ Manual allocation & Performance control ]</span>
+<span style="color: #484f58;">    ├──</span> <span style="color: #c9d1d9;">data_structures</span><span style="color: #8FE319;">.lib</span>    <span style="color: #6e7681;">[ Algorithmic complexity management ]</span>
+<span style="color: #484f58;">    └──</span> <span style="color: #c9d1d9;">environment</span><span style="color: #8FE319;">.conf</span>       <span style="color: #6e7681;">[ Arch Linux, Network & API Integrations ]</span>
+</pre>
+</div>
+
+<br>
+
+<div align="left">
+  <h2><samp>&gt; ping -c 3 contacts.network</samp></h2>
+</div>
+
+<div align="left" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #1a1a1a; padding: 20px 25px;">
+<pre style="font-family: 'Fira Code', monospace; margin: 0; font-size: 15px; line-height: 1.6;">
+<span style="color: #6e7681;">PING contacts.network (127.0.0.1): 56 data bytes</span>
+<span style="color: #c9d1d9;">64 bytes from tg://</span><a href="https://t.me/DrBopoH" style="color: #8FE319; text-decoration: none; font-weight: bold;">@DrBopoH</a><span style="color: #c9d1d9;">      seq=0 ttl=64 time=1.2ms  </span><span style="color: #6e7681;">[ Direct Comm / Fast Response ]</span>
+<span style="color: #c9d1d9;">64 bytes from yt://</span><a href="https://youtube.com/@DrBopoH" style="color: #8FE319; text-decoration: none; font-weight: bold;">YouTube</a><span style="color: #c9d1d9;">       seq=1 ttl=64 time=3.4ms  </span><span style="color: #6e7681;">[ Video Logs / R&D Streams ]</span>
+<span style="color: #c9d1d9;">64 bytes from mailto:</span><a href="mailto:your.email@example.com" style="color: #8FE319; text-decoration: none; font-weight: bold;">Email</a><span style="color: #c9d1d9;">         seq=2 ttl=64 time=5.1ms  </span><span style="color: #6e7681;">[ Async Msgs / Formal Req ]</span>
+
+<span style="color: #6e7681;">--- contacts.network ping statistics ---</span>
+<span style="color: #8FE319;">3 packets transmitted, 3 packets received, 0.0% packet loss</span>
+<span style="color: #c9d1d9;">Connection established. Waiting for input... </span><span style="color: #8FE319;">_</span>
+</pre>
+</div>
