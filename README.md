@@ -1,43 +1,78 @@
-> ENG
+1. Hero Section
+<div align="right">
+  <samp>🌐 <b>EN</b> | <a href="README_RU.md" style="color: #8FE319; text-decoration: none;">RU</a></samp>
+</div>
 
-Hello, my name is Δρ.ΒοροΝ | @DrBopoH  
+<div align="center">
 
-I can be called Raven, Doctor, or just Doc. I'm a programmer and 3D artist specialising in game development.
+<table width="100%" border="0" cellpadding="15" cellspacing="0" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #1a1a1a;">
+  <tr>
+    <td width="55%" valign="top">
+      <h2><samp>&gt; whoami</samp></h2>
+      <h1 style="margin-bottom: 0;"><samp>DrBopoH_</samp></h1>
+      
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=8FE319&center=false&vCenter=true&width=400&lines=R%26D+Engineer;Toolmaker;Tech-Artist;Visionary" alt="Typing">
+      
+      <br><br>
+      <blockquote>
+        <i>"Do we not live to enjoy the beautiful?<br>
+        The brain builds language, and language builds the brain."</i>
+      </blockquote>
+    </td>
+    
+    <td width="45%" valign="top">
+      <h2><samp>&gt; load_modules()</samp></h2>
+      
+      <img src="https://img.shields.io/badge/-Zig_Core-1a1a1a?style=for-the-badge&logo=zig&logoColor=8FE319">
+      <br><br>
+      <img src="https://img.shields.io/badge/-Python_AI_&_Logic-1a1a1a?style=for-the-badge&logo=python&logoColor=8FE319">
+      <br><br>
+      <img src="https://img.shields.io/badge/-Godot_Pipeline-1a1a1a?style=for-the-badge&logo=godotengine&logoColor=8FE319">
+      <br><br>
+      <img src="https://img.shields.io/badge/-Arch_Linux-1a1a1a?style=for-the-badge&logo=archlinux&logoColor=8FE319">
+    </td>
+  </tr>
+</table>
 
-----🛠 Competencies----
+<br><br>
 
-🎮 Gamedev & Programming:
-- Languages: Middle Python; Middle GDScript; Junior Rust/Zig; 
-- Engines: Middle Godot 3.5.3; Junior UE4.27/5.5;
-- Skills: Data Structures, Algorithms, OOP, working with APIs and network connections, DevOps development, game physics and mechanics
+2. Pitch
+<div align="left">
+  <h2><samp>&gt; ls ./R&D_Lab/</samp></h2>
+</div>
 
-🎨 3D Graphics & PBR:
-- Skills: UV unwrapping, efficient and scalable unwrapping, map baking, texturing and texture creation, PBR materials, model optimisation and beautiful renders
-- Tools: Blender 3.6/4.2, Photopea, Materialize, Meshroom, Aseprite
--------------------------
-> CIS
+<table width="100%" border="0" cellpadding="15" cellspacing="0" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #1a1a1a;">
+  <tr>
+    <td width="50%" valign="top">
+       <h3>📦 <a href="https://github.com/DrBopoH/Fibra-3D" style="color: #8FE319; text-decoration: none;">Fibra-3D</a></h3>
+       <p><samp>[ Python ]</samp></p>
+       <p>PET project: 3D Engine. Exploring rendering architecture and under-the-hood graphics operations. Not just using tools, but understanding their core.</p>
+    </td>
+    <td width="50%" valign="top">
+       <h3>⚡ <a href="https://github.com/DrBopoH/Smogline-techdemo-zig" style="color: #8FE319; text-decoration: none;">Smogline-techdemo</a></h3>
+       <p><samp>[ Zig ]</samp></p>
+       <p>Stress-testing Zig in combat conditions. A tech demo where explicit memory control and raw performance take the front seat.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+       <h3>📂 <a href="https://github.com/DrBopoH/StorageOrigin-Handler" style="color: #8FE319; text-decoration: none;">StorageOrigin-Handler</a></h3>
+       <p><samp>[ Python ]</samp></p>
+       <p>A step towards the GUI revolution. A shell and file handler implementing the "Everything is a directory" concept.</p>
+    </td>
+    <td width="50%" valign="top">
+       <h3>🧠 <a href="#" style="color: #8FE319; text-decoration: none;">Project_Lang</a> (Concept)</h3>
+       <p><samp>[ Architecture / R&D ]</samp></p>
+       <p>Artificial technical language based on Ancient Greek. An attempt to erase the line between code and communication, upgrading data transfer capabilities.</p>
+    </td>
+  </tr>
+</table>
 
-Здравствуйте, меня зовут Δρ.ΒοροΝ | @DrBopoH 
+</div>
 
-Меня можно называть Ворон, Доктор, или просто Док. Я — программист и 3D-художник, специализирующийся на разработке игр.
 
-----🛠 Компетенция----
+3. TL;DR
 
-🎮 Геймдев & Программирование:
-- Языки: Мидл Python; Мидл GDScript; Джун Rust/Zig; 
-- Движки: Мидл Godot 3.5.3; Джун UE4.27/5.5;
-- Навыки: Структур данных, Алгоритмов, ООП, работа с API и сетевыми подключениями, разработка DevOps, игровой физики и механик
+4. Features
 
-🎨 3D-графика & PBR:
-- Навыки: UV-развертка, эффективная и масштабируемая развертка, запечка карт, текстурирование и создание текстур, PBR-материалов, оптимизация моделей и красивые рендеры
-- Инструменты: Blender 3.6/4.2, Photopea, Materialize, Meshroom, Aseprite
--------------------------
-🚀 What I'm doing now:
-- Developing projects on Godot 3.5.3
-- Working on both unique projects and recreating classics
-- Improving low-level language skills for a deeper understanding of game engines
-
-📫 Communication & Links:
-- 💬 Discord: drbopoh
-- 📱 Telegram: @nonexisfunction
-- 🎥 YouTube: https://www.youtube.com/channel/UCyv7mAYE_Cd_4Yzwkk3SBCA/
+5. Docs
