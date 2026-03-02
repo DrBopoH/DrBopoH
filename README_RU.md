@@ -1,5 +1,5 @@
 <div align="right">
-	<samp><b style="font-size: 14px; color: #ffffff;">EN</b> | <a href="README_GR.md" style="text-decoration: none;"><b style="font-size: 13px; color: #c4a052;">GR</b></a> | <a href="README_UA.md" style="text-decoration: none;"><b style="font-size: 13px; color: #c4a052;">UA</b></a></samp>
+	<samp><a href="README.md" style="text-decoration: none;"><b style="font-size: 13px; color: #c4a052;">EN</b></a> | <a href="README_GR.md" style="text-decoration: none;"><b style="font-size: 13px; color: #c4a052;">GR</b></a> | <b style="font-size: 14px; color: #ffffff;">RU</b> | <a href="README_UA.md" style="text-decoration: none;"><b style="font-size: 13px; color: #c4a052;">UA</b></a></samp>
 </div>
 <br>
 
@@ -9,34 +9,34 @@
 			<h2 style="margin-top: 0;"><samp>&gt; whoami</samp></h2>
 			<h1 style="margin: 0; font-size: 42px;"><samp>Δp.BopoN<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=500&color=ffffff&width=307&height=42&vCenter=true&lines=_;%20" alt="blinking cursor" style="vertical-align: middle; margin-bottom: 2px;"></samp></h1>
 			<div style="margin-top: 5px;">
-				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c4a052&center=false&vCenter=false&width=500&lines=R%26D+Engineer;Visionary;Tech-Artist" alt="Typing roles">
+				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c4a052&center=false&vCenter=false&width=500&lines=R%26D+Инженер;Визионер;Тех-Художник" alt="Typing roles">
 			</div>
 			<blockquote style="border-left: 2px solid #30363d; margin: 0; padding-left: 15px; padding-right: 15px;">
 				<div align="right">
 					<i style="color: #8b949e; font-size: 20px;">«Φιλῶ τὸ καλὸν ἥδεσθαι, ὡς Βούδδας· ἄρ' οὐκ ἐν τούτῳ βίου σκοπός;»</i>
 				</div>
 				<div align="left" style="margin-top: 5px;">
-					<samp style="color: #6e7681; font-size: 12px;">— I love to enjoy the beautiful, like Buddha: is not the purpose of life in this?</samp>
+					<samp style="color: #6e7681; font-size: 12px;">— Я люблю наслаждаться прекрасным, как Будда: разве не в этом смысл жизни?</samp>
 				</div>
 			</blockquote>
 		</td>
 		<td width="40%" valign="top" align="left">
 			<h2 style="margin-top: 0;"><samp>&gt; systemctl status</samp></h2>
 			<div style="border-left: 1px solid #30363d; padding-left: 20px; margin-top: 10px;">
-				<samp style="color: #6e7681; font-size: 12px; letter-spacing: 1px;">[ SYSTEM ]</samp><br>
+				<samp style="color: #6e7681; font-size: 12px; letter-spacing: 1px;">[ СИСТЕМА ]</samp><br>
 				<div style="margin-top: 5px; margin-bottom: 15px;">
-					<img src="https://img.shields.io/badge/STATUS-ONLINE-c4a052?style=flat-square&labelColor=000000" alt="Status"><br>
+					<img src="https://img.shields.io/badge/СТАТУС-ОНЛАЙН-c4a052?style=flat-square&labelColor=000000" alt="Status"><br>
 					<div style="margin-top: 5px;">
-						<samp style="color: #6e7681;">FOCUS:</samp> <b style="color: #c9d1d9;">DOD, ECS, VFS</b>
+						<samp style="color: #6e7681;">ФОКУС:</samp> <b style="color: #c9d1d9;">DOD, ECS, VFS</b>
 					</div>
 				</div>
-				<samp style="color: #6e7681; font-size: 12px; letter-spacing: 1px;">[ DEVICES ]</samp><br>
+				<samp style="color: #6e7681; font-size: 12px; letter-spacing: 1px;">[ ИНСТРУМЕНТЫ ]</samp><br>
 				<div style="margin-top: 5px; line-height: 1.8;">
-					<img src="https://img.shields.io/badge/OS-Arch_Linux-c4a052?style=flat-square&labelColor=000000&logo=archlinux&logoColor=white">
-					<img src="https://img.shields.io/badge/Render-Vulkan-c4a052?style=flat-square&labelColor=000000&logo=vulkan&logoColor=white"><br>
-					<img src="https://img.shields.io/badge/Engine-Godot-c4a052?style=flat-square&labelColor=000000&logo=godotengine&logoColor=white">
-					<img src="https://img.shields.io/badge/Lang-Python-c4a052?style=flat-square&labelColor=000000&logo=python&logoColor=white"><br>
-					<img src="https://img.shields.io/badge/Lang-Zig-c4a052?style=flat-square&labelColor=000000&logo=zig&logoColor=white">
+					<img src="https://img.shields.io/badge/ОС-Arch_Linux-c4a052?style=flat-square&labelColor=000000&logo=archlinux&logoColor=white">
+					<img src="https://img.shields.io/badge/Рендер-Vulkan-c4a052?style=flat-square&labelColor=000000&logo=vulkan&logoColor=white"><br>
+					<img src="https://img.shields.io/badge/Движок-Godot-c4a052?style=flat-square&labelColor=000000&logo=godotengine&logoColor=white">
+					<img src="https://img.shields.io/badge/Язык-Python-c4a052?style=flat-square&labelColor=000000&logo=python&logoColor=white"><br>
+					<img src="https://img.shields.io/badge/Язык-Zig-c4a052?style=flat-square&labelColor=000000&logo=zig&logoColor=white">
 				</div>
 			</div>
 		</td>
@@ -54,28 +54,28 @@
 		<td width="33%" valign="top" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #1a1a1a; padding: 15px;">
 			<h3 style="margin: 0 0 10px 0;"><img src="https://img.shields.io/badge/SYS-ARCH__01-c4a052?style=flat-square&labelColor=000000" alt="ARCH_01"></h3>
 			<ul style="color: #8b949e; font-family: monospace; font-size: 14px; padding-left: 20px; margin: 0; list-style-type: square;">
-				<li>Data-Oriented Design (DOD)</li>
+				<li>Дата-ориентированный дизайн (DOD)</li>
 				<li>Entity Component System (ECS)</li>
-				<li>Memory Management (ZIG, C++)</li>
-				<li>VFS & OS Architecture</li>
+				<li>Управление памятью (ZIG, C++)</li>
+				<li>Архитектура VFS и ОС</li>
 			</ul>
 		</td>
 		<td width="33%" valign="top" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #1a1a1a; padding: 15px;">
 			<h3 style="margin: 0 0 10px 0;"><img src="https://img.shields.io/badge/GFX-RENDER__02-c4a052?style=flat-square&labelColor=000000" alt="GFX_02"></h3>
 			<ul style="color: #8b949e; font-family: monospace; font-size: 14px; padding-left: 20px; margin: 0; list-style-type: square;">
-				<li>Render Architecture (Vulkan)</li>
-				<li>PBR Workflow & Map Baking</li>
-				<li>Shaders (GLSL)</li>
-				<li>Mesh Topology Optimization</li>
+				<li>Архитектура рендера (Vulkan)</li>
+				<li>PBR пайплайн и запекание карт</li>
+				<li>Шейдеры (GLSL)</li>
+				<li>Оптимизация топологии мешей</li>
 			</ul>
 		</td>
 		<td width="33%" valign="top" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #1a1a1a; padding: 15px;">
 			<h3 style="margin: 0 0 10px 0;"><img src="https://img.shields.io/badge/LGC-ENV__03-c4a052?style=flat-square&labelColor=000000" alt="LGC_03"></h3>
 			<ul style="color: #8b949e; font-family: monospace; font-size: 14px; padding-left: 20px; margin: 0; list-style-type: square;">
-				<li>Algorithms & Data Structures</li>
-				<li>Toolmaking & Automation</li>
-				<li>API Integration (REST)</li>
-				<li>Arch Linux Environment</li>
+				<li>Алгоритмы и структуры данных</li>
+				<li>Создание инструментов / Автоматизация</li>
+				<li>Интеграция API (REST)</li>
+				<li>Среда Arch Linux</li>
 			</ul>
 		</td>
 	</tr>
@@ -117,7 +117,7 @@
 			<span style="color: #c9d1d9;"> [OK]</span>  
 			<br><br>
 			<span style="color: #8b949e;">
-				All links active. Connection stable<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&pause=500&color=8b949e&width=20&height=24&vCenter=true&lines=_;%20" alt="blinking cursor" style="vertical-align: middle; margin-bottom: 2px;">
+				Все ссылки активны. Соединение стабильно<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&pause=500&color=8b949e&width=20&height=24&vCenter=true&lines=_;%20" alt="blinking cursor" style="vertical-align: middle; margin-bottom: 2px;">
 			</span> 
 		</td>
 	</tr>
