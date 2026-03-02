@@ -93,25 +93,25 @@
 			<span style="color: #6e7681;">PING contacts.network (127.0.0.1): 56 data bytes</span>
 			<br><br>
 			<span style="color: #c9d1d9;">&gt; 64 bytes from</span> 
-			<a href="https://t.me/DrBopoH" target="_blank">
+			<a href="https://t.me/nonexisfunction" target="_blank">
 				<img src="https://img.shields.io/badge/web.telegram.org-@nonexisfunction-c4a052?style=flat-square&labelColor=000000&logo=telegram&logoColor=white" style="vertical-align: middle;">
 			</a>
 			<span style="color: #c9d1d9;"> [OK]</span> 
 			<br>
 			<span style="color: #c9d1d9;">&gt; 64 bytes from</span> 
-			<a href="https://youtube.com/@DrBopoH" target="_blank">
+			<a href="https://youtube.com/@MTongCS" target="_blank">
 				<img src="https://img.shields.io/badge/www.youtube.com-@MTongCS-c4a052?style=flat-square&labelColor=000000&logo=youtube&logoColor=white" style="vertical-align: middle;">
 			</a>
 			<span style="color: #c9d1d9;"> [OK]</span> 
 			<br>
 			<span style="color: #c9d1d9;">&gt; 64 bytes from</span> 
-			<a href="mailto:tong.industries.main@gmail.com">
+			<a href="https://mail.google.com/mail/u/0/?tf=cm&to=tong.industries.main@gmail.com">
 				<img src="https://img.shields.io/badge/mail.google.com-tong.industries.main-c4a052?style=flat-square&labelColor=000000&logo=gmail&logoColor=white" style="vertical-align: middle;">
 			</a>
 			<span style="color: #c9d1d9;"> [OK]</span>
 			<br>
 			<span style="color: #c9d1d9;">&gt; 64 bytes from</span> 
-			<a href="#" target="_blank">
+			<a href="https://discord.com/users/732944855163994113" target="_blank">
 				<img src="https://img.shields.io/badge/discord.com-@drbopoh-c4a052?style=flat-square&labelColor=000000&logo=discord&logoColor=white" style="vertical-align: middle;">
 			</a>
 			<span style="color: #c9d1d9;"> [OK]</span>  
