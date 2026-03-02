@@ -7,7 +7,7 @@
 	<tr>
 		<td width="60%" valign="top">
 			<h2 style="margin-top: 0;"><samp>&gt; whoami</samp></h2>
-			<h1 style="margin: 0; font-size: 42px;"><samp>Δp.BopoN<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=500&color=ffffff&width=307&height=32&vCenter=true&lines=_;%20" alt="blinking cursor" style="vertical-align: middle; margin-bottom: 2px;"></samp></h1>
+			<h1 style="margin: 0; font-size: 42px;"><samp>Δp.BopoN<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=500&color=ffffff&width=307&height=42&vCenter=true&lines=_;%20" alt="blinking cursor" style="vertical-align: middle; margin-bottom: 2px;"></samp></h1>
 			<div style="margin-top: 5px;">
 				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c4a052&center=false&vCenter=false&width=500&lines=R%26D+Інженер;Візіонер;Тех-Художник" alt="Typing roles">
 			</div>
