@@ -7,7 +7,7 @@
 	<tr>
 		<td width="60%" valign="top">
 			<h2 style="margin-top: 0;"><samp>&gt; whoami</samp></h2>
-			<h1 style="margin: 0; font-size: 42px;"><samp>Δp.BopoN<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=500&color=ffffff&width=307&height=42&vCenter=true&lines=_;%20" alt="blinking cursor" style="vertical-align: middle; margin-bottom: 2px;"></samp></h1>
+			<h1 style="margin: 0; font-size: 42px;"><samp>Δp.BopoN<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=500&color=ffffff&width=307&height=42&vCenter=true&lines=_;%20" alt="blinking cursor" style="vertical-align: middle; margin-bottom: 2px;"></samp></h1>
 			<div style="margin-top: 5px;">
 				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c4a052&center=false&vCenter=false&width=500&lines=R%26D+Инженер;Визионер;Тех-Художник" alt="Typing roles">
 			</div>
@@ -96,7 +96,7 @@
 			<a href="https://t.me/nonexisfunction" target="_blank">
 				<img src="https://img.shields.io/badge/web.telegram.org-@nonexisfunction-c4a052?style=flat-square&labelColor=000000&logo=telegram&logoColor=white" style="vertical-align: middle;">
 			</a>
-			<span style="color: #c9d1d9;">......................................[OK]</span> 
+			<span style="color: #c9d1d9;">....................................................................[OK]</span> 
 			<br>
 			<span style="color: #c9d1d9;">&gt; 64 bytes from</span> 
 			<a href="https://youtube.com/@MTongCS" target="_blank">
