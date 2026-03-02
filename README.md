@@ -7,12 +7,10 @@
   <tr>
     <td width="60%" valign="top">
       <h2 style="margin-top: 0;"><samp>&gt; whoami</samp></h2>
-      <h1 style="margin: 0; font-size: 42px;"><samp>Δp.BopoN<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=10&color=ffffff&width=20&height=24&vCenter=true&lines=_;%20" alt="blinking cursor" style="vertical-align: middle; margin-bottom: 2px;"></samp></h1>
-      
+      <h1 style="margin: 0; font-size: 42px;"><samp>Δp.BopoN <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=10&color=ffffff&width=20&height=24&vCenter=true&lines=_;%20" alt="blinking cursor" style="vertical-align: middle; margin-bottom: 2px;"></samp></h1>
       <div style="margin-top: 5px; margin-bottom: 25px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=cc5533&center=false&vCenter=false&width=500&lines=R%26D+Engineer;Core+Systems+Toolmaker;Tech-Artist" alt="Typing roles">
       </div>
-
       <blockquote style="border-left: 2px solid #30363d; margin: 0; padding-left: 15px; padding-right: 15px;">
         <div align="right">
           <i style="color: #8b949e; font-size: 20px;">«Φιλῶ τὸ καλὸν ἥδεσθαι, ὡς Βούδδας· ἄρ' οὐκ ἐν τούτῳ βίου σκοπός;»</i>
@@ -22,7 +20,6 @@
         </div>
       </blockquote>
     </td>
-    
     <td width="40%" valign="top" align="left">
       <h2 style="margin-top: 0;"><samp>&gt; sys_info</samp></h2>
       <div style="border-left: 1px solid #30363d; padding-left: 20px; margin-top: 10px;">
@@ -33,7 +30,6 @@
             <samp style="color: #6e7681;">FOCUS:</samp> <b style="color: #c9d1d9;">DOD, ECS, VFS</b>
           </div>
         </div>
-        
         <samp style="color: #6e7681; font-size: 12px; letter-spacing: 1px;">[ WEAPONRY ]</samp><br>
         <div style="margin-top: 5px; line-height: 1.8;">
           <img src="https://img.shields.io/badge/OS-Arch_Linux-cc5533?style=flat-square&labelColor=000000&logo=archlinux&logoColor=white">
