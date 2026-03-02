@@ -90,31 +90,31 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="10">
 	<tr>
 		<td width="33%" valign="top" style="background-color: #0d1117; font-family: monospace; border-radius: 8px; border: 1px solid #1a1a1a; padding: 15px;">
-			<span style="color: #6e7681;">PING contacts.network (127.0.0.1): 56 data bytes</span>
+			<span style="color: #6e7681;">PING drbopoh.contacts.net (127.0.0.1): 56 data bytes</span>
 			<br><br>
 			<span style="color: #c9d1d9;">&gt; 64 bytes from</span> 
 			<a href="https://t.me/nonexisfunction" target="_blank">
 				<img src="https://img.shields.io/badge/web.telegram.org-@nonexisfunction-c4a052?style=flat-square&labelColor=000000&logo=telegram&logoColor=white" style="vertical-align: middle;">
 			</a>
-			<span style="color: #c9d1d9;"> [OK]</span> 
+			<span style="color: #c9d1d9;">......................................[OK]</span> 
 			<br>
 			<span style="color: #c9d1d9;">&gt; 64 bytes from</span> 
 			<a href="https://youtube.com/@MTongCS" target="_blank">
 				<img src="https://img.shields.io/badge/www.youtube.com-@MTongCS-c4a052?style=flat-square&labelColor=000000&logo=youtube&logoColor=white" style="vertical-align: middle;">
 			</a>
-			<span style="color: #c9d1d9;"> [OK]</span> 
+			<span style="color: #c9d1d9;">.........................................[OK]</span> 
 			<br>
 			<span style="color: #c9d1d9;">&gt; 64 bytes from</span> 
 			<a href="https://mail.google.com/mail/u/0/?tf=cm&to=tong.industries.main@gmail.com">
 				<img src="https://img.shields.io/badge/mail.google.com-tong.industries.main-c4a052?style=flat-square&labelColor=000000&logo=gmail&logoColor=white" style="vertical-align: middle;">
 			</a>
-			<span style="color: #c9d1d9;"> [OK]</span>
+			<span style="color: #c9d1d9;">.....................................[OK]</span>
 			<br>
 			<span style="color: #c9d1d9;">&gt; 64 bytes from</span> 
 			<a href="https://discord.com/users/732944855163994113" target="_blank">
 				<img src="https://img.shields.io/badge/discord.com-@drbopoh-c4a052?style=flat-square&labelColor=000000&logo=discord&logoColor=white" style="vertical-align: middle;">
 			</a>
-			<span style="color: #c9d1d9;"> [OK]</span>  
+			<span style="color: #c9d1d9;">.............................................[OK]</span>  
 			<br><br>
 			<span style="color: #8b949e;">
 				Всі посилання активні. З'єднання стабільне<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&pause=500&color=8b949e&width=20&height=24&vCenter=true&lines=_;%20" alt="blinking cursor" style="vertical-align: middle; margin-bottom: 2px;">
